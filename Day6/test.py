@@ -1,5 +1,5 @@
 import unittest
-from AdventOfCode.Day6.LanternFishGrower import expand_fish
+from AdventOfCode.Day1.SonarSweeper import expand_fish
 
 class MyTestCase(unittest.TestCase):
     def test_expand_fish(self):
